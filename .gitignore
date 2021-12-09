@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 inventory-new.py
+inventory0.py
 # C extensions
 *.so
 
